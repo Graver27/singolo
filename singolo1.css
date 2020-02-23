@@ -103,11 +103,13 @@ body {
 }
 
 .promo-button-left {
+    cursor: pointer;
     background: transparent;
     border: none;
 }
 
 .promo-button-right {
+    cursor: pointer;
     background: transparent;
     border: none;
 }
