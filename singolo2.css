@@ -125,41 +125,6 @@ body {
     max-width: 300px;
 }
 
-.facebook-icon {
-    height: 14px;
-    width: 8px;
-}
-
-.google-icon {
-    height: 14px;
-    width: 14px;
-}
-
-.twitter-icon {
-    height: 12px;
-    width: 14px;
-}
-
-.linkid-icon {
-    height: 14px;
-    width: 14px;
-}
-
-.social-list {
-    display: flex;
-}
-
-.social-item {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 32px;
-    height: 32px;
-    border: 1px solid gray;
-    border-radius: 100%;
-    margin-right: 8px;
-}
-
 .about-us-wrapper {
     padding: 57px 40px 50px 40px;
     border-bottom: 6px solid #ffffff
@@ -194,4 +159,40 @@ body {
     font-size: 12px;
     margin-bottom: 24px;
     line-height: 1.7;
+}
+
+
+.facebook-icon {
+    height: 14px;
+    width: 8px;
+}
+
+.google-icon {
+    height: 14px;
+    width: 14px;
+}
+
+.twitter-icon {
+    height: 12px;
+    width: 14px;
+}
+
+.linkid-icon {
+    height: 14px;
+    width: 14px;
+}
+
+.social-list {
+    display: flex;
+}
+
+.social-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32px;
+    height: 32px;
+    border: 1px solid gray;
+    border-radius: 100%;
+    margin-right: 8px;
 }
